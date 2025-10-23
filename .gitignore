@@ -1,0 +1,14 @@
+database
+yolov5
+.idea/
+yolov7/yolov7.pt
+yolov7/yolov7_training.pt
+yolov7/yolov7x_training.pt
+yolov7/traced_model.pt
+yolov7/inference_utils/model
+runs
+yolov7/paper
+yolov7/figure
+yolov7/tools
+yolov5/
+*.pt

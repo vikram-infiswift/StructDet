@@ -1,0 +1,6 @@
+train: ../database/synthetic_data/sheets/Residential_6_level/data_/images/train
+val:   ../database/synthetic_data/sheets/Residential_6_level/data_/images/Level7
+test:  ../database/synthetic_data/sheets/Residential_6_level/data_/images/Level7
+
+nc: 2 # number of classes
+names: ['Component', 'Table']
